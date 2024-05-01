@@ -1,4 +1,4 @@
-**** Simple Project****
+#Simple Project
 
 **Overview**
 
@@ -32,9 +32,5 @@ To initiate the chatbot, execute the provided Python script. Upon execution, the
 -The chatbot will greet users with a random salutation.
 =Users can pose various questions to the chatbot, eliciting relevant responses.
 =To conclude the conversation, input "goodbye," "bye," or "quit," prompting the chatbot to bid farewell.
-
-**License**
-
-This project operates under the MIT License. You are encouraged to utilize, adapt, and distribute the code as necessary.
 
 Embark on your coding journey with enthusiasm!
